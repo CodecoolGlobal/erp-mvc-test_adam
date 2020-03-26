@@ -1,8 +1,8 @@
 import unittest
 
-import test_crm
-import test_hr
-import test_store
+import tests.test_crm
+import tests.test_hr
+import tests.test_store
 
 from model import data_manager
 
